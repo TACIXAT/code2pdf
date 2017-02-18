@@ -1,0 +1,21 @@
+{
+    "files": [
+        "cminus/lexer.mll",
+        "cminus/ast.ml",
+        "cminus/parser.mly",
+        "cminus/codegen.ml",
+        "cminus/main.ml",
+        "cminus/samples/io.c",
+        "cminus/samples/fact/fact.tny",
+        "cminus/samples/fact/fact.ll",
+        "cminus/README.md", 
+        "cminus/_tags", 
+        "code2pdf/code2pdf.py"
+    ],
+    "description_file": "description.txt",
+    "heading": [
+        "Douglas Gastonguay-Goddard",
+        "Compiler Design - Ferguson",
+        "[DATE]"
+    ]
+}
