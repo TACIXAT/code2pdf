@@ -6,7 +6,7 @@ For the format to be nice, make sure you indent with spaces and not tabs.
 
 ## Usage 
 
-`python code2pdf.py path/to/config.json`
+`python code2pdf.py [path/to/config.json]`
 
 Script expects a config file `config.json` in the current directory, or one can be passed as the first argument. It makes the most sense to just have `config.json` and `description.txt` in the root of your project folder, and run the script from there.
 
