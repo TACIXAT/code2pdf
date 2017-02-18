@@ -2,7 +2,11 @@
 
 A script to build a PDF from a list of source files and a description.txt. This is useful for Doug Ferguson's classes at Johns Hopkins as he requires code to be submitted in PDF format. Feel free to fork and submit pull requests for any features you would like to see added. 
 
-For the format to be nice, make sure you indent with spaces and not tabs.
+For the format to be nice, make sure you **indent with spaces and not tabs**.
+
+## Dependencies 
+
+`pip install reportlab`
 
 ## Usage 
 
@@ -41,7 +45,3 @@ Script expects a config file `config.json` in the current directory, or one can 
     ]
 }
 ```
-
-## Dependencies 
-
-`pip install reportlab`
