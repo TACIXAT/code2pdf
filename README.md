@@ -4,7 +4,7 @@ A script to build a PDF from a list of source files and a description.txt. This 
 
 ## Usage 
 
-`python code2pdf.py path/to/config.json path/to/description.txt`
+`python code2pdf.py path/to/config.json`
 
 Script expects a config file `config.json` in the current directory, or one can be passed as the first argument. It makes the most sense to just have `config.json` and `description.txt` in the root of your project folder, and run the script from there.
 
